@@ -3,3 +3,4 @@ name = "dem"
 version = "0.1.0"
 description = "Containerized Development Environment Manager for embedded development"
 requires-python = ">=3.10"
+# drop an unused branch
